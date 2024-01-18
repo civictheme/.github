@@ -5,7 +5,7 @@ CivicTheme is an open-source, inclusive and component-based design system.
 It was created so governments and corporations can rapidly assemble modern, consistent and compliant digital experiences.
 
 It consists of 3 main assets:
-- [Design theme](https://civictheme.io/figma)
+- [Design system](https://civictheme.io/figma)
 - [UI kit](https://uikit.civictheme.io/)
 - [Drupal theme](https://www.drupal.org/project/civictheme)
 
